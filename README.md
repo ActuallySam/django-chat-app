@@ -19,7 +19,7 @@ To develop locally:
 3. Make sure you have an instance of redis running, by running the command below: (Make sure you install Docker first)    
 ```
 ```
-                                      docker run -p 6379:6379 -d redis:5
+                                docker run -p 6379:6379 -d redis:5
 ```
          
 
